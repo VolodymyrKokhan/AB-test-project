@@ -5,7 +5,8 @@ The goal of the project is to analyze the results of A/B testing using statistic
 
 [Link to dataframe with the result](https://drive.google.com/file/d/1CxsJFb9j22AVF9PLkKbSqBpmGBLcxuRF/view?usp=sharing)
 
-[Link to Google Colab]([https://drive.google.com/file/d/1CxsJFb9j22AVF9PLkKbSqBpmGBLcxuRF/view?usp=sharing](https://colab.research.google.com/drive/1T0U_E1z4irWNmohg02YrWDAZwlnlzvE6?usp=sharing))
+[Link to Google Colab](https://colab.research.google.com/drive/1T0U_E1z4irWNmohg02YrWDAZwlnlzvE6?usp=sharing)
+
 
 ![AB](https://github.com/VolodymyrKokhan/AB-test-project/blob/main/AB.PNG)
 
